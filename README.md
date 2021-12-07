@@ -8,7 +8,7 @@ This is a fun side project that I started a few weeks ago
 3. TailwindCSS
 4. React Motion
 
-#How to run
+# How to run
 
 1. git clone
 2. cd react-macos
